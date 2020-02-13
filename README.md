@@ -1,2 +1,3 @@
 # codeacademy
-Project I completed on the code academy website
+Projects I completed on the code academy website.
+1) HTML website
