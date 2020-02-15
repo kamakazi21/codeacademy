@@ -1,2 +1,2 @@
 # codeacademy
-Projects on the code academy website
+Projects on the Code Academy Website
