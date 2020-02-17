@@ -24,4 +24,5 @@
 - <video> tag allow us to show videos but reqire closing tag </video>. Attributes for <video> are self enclosed in the tag
   header. src attribute is hosted alongside your webpage, width and height attribute are  used to set the size of the video.
   control attributed to add basic controls, must be included.
-- Declarative Languages tell interpreter
+- Declarative Languages tell interpreter what to do, not how to do it.
+- Iterative Language tell interpreter what to do.
