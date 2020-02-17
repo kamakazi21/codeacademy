@@ -4,12 +4,24 @@
 - Hypertext is text displayed on a computer or device that provide access to other text through links, also known as hyperlinks.
 - Elements are made up one opening tag <> and one closing </> and the content between it.
 - <body> </body> - once a file has body many different types of content including text, images and buttons can be added to the body.
-- Parent element - main element
-- Child element - rested inside parent element
-- In HTML here are six different headings
+- Parent element - main element.
+- Child element - rested inside parent element.
+- In HTML here are six different headings.
 - <div> is a container that divides the page into sections. Always remember to put two spaces of indentation.
 - Attributed are content added to the opening tag of an element and can be used in several ways from providing information 
-  to changing styling. Attributes are made up of two parts name and value. <div id = "">
-- If you want to display text in HTML you can use paragrahs or span.paragraphs <p> for block of plain text and span <span> 
+  to changing styling. Attributes are made up of two parts name and value. <div id = "">.
+- If you want to display text in HTML you can use paragrahs or span.paragraphs <p> for block of plain text and span <span>. 
   for short pieces of text or other HTML, used to seperate text.
-- If 
+- If you want to divide content into blocks it is better to use div.
+- You can use styling text using HTML tags. The <em> tag emphasizes text, while the <strong> tag highlights important text.
+- <em> = italac;  <strong> = bold.
+- If you are interested in modifying the spacing in the browser, you can use HTML line break element <br>.
+- You can use unordered list <ul> to create a list of items in no particular order. Individual list items must be 
+  added to the unordered list using the <li> tag.
+- Ordered list <ol> means that list items are numbered.
+- <img> tag allow us to to add images, it is a self inclosed tag. It has required attribute src. <img src="  ">.
+- alt altrnative text attribte inside <img> tag <img alt="  ">. It is used to give description to something.
+- <video> tag allow us to show videos but reqire closing tag </video>. Attributes for <video> are self enclosed in the tag
+  header. src attribute is hosted alongside your webpage, width and height attribute are  used to set the size of the video.
+  control attributed to add basic controls, must be included.
+- Declarative Languages tell interpreter
