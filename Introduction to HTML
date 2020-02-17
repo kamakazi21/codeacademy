@@ -26,3 +26,6 @@
   control attributed to add basic controls, must be included.
 - Declarative Languages tell interpreter what to do, not how to do it.
 - Iterative Language tell interpreter what to do.
+- Adavntages of coherent HTML Structure: Readability, Accessibility, Ease of Styling.
+- <section> tag when there is a need for symantic information.
+- Divitis- excessive misuse of divs to markup a page
