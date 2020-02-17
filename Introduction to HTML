@@ -1,2 +1,15 @@
-- ML provides structure to the content apperaingon a website.
--
+- HTML provides structure to the content apperaingon a website.
+- A markup language is a computer language that defines the structure and presentation of raw text.
+- In HTMl a computer can interpret raw text wrapped in HTML elements.
+- Hypertext is text displayed on a computer or device that provide access to other text through links, also known as hyperlinks.
+- Elements are made up one opening tag <> and one closing </> and the content between it.
+- <body> </body> - once a file has body many different types of content including text, images and buttons can be added to the body.
+- Parent element - main element
+- Child element - rested inside parent element
+- In HTML here are six different headings
+- <div> is a container that divides the page into sections. Always remember to put two spaces of indentation.
+- Attributed are content added to the opening tag of an element and can be used in several ways from providing information 
+  to changing styling. Attributes are made up of two parts name and value. <div id = "">
+- If you want to display text in HTML you can use paragrahs or span.paragraphs <p> for block of plain text and span <span> 
+  for short pieces of text or other HTML, used to seperate text.
+- If 
