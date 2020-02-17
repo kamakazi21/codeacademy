@@ -14,4 +14,4 @@ first set is stopped and the second set is executed.
 -Each execution of those instruction is called an iteration.
 -For loops (count controlled loops) repeat for a specified number of times.
 -While loops (condition controlled loops) repeat until condiiton changes.
--For each loops 9collection controlled loops) repeat for each items in a collection.
+-For each loops (collection controlled loops) repeat for each items in a collection.
