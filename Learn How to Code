@@ -1,1 +1,17 @@
-
+-A function is a sequence of instructions that performs a specifc task packed as a unit.
+-Inputs to function are called parameters.
+-When we call a function, the value we specify the instructions, inputs and name of the function.
+-Control flow- set a instructions executed in a certain order.
+-Control Structures can be used to alter control flow.
+-Conditional control structures execute a computer instruction depending on the conditions.
+-A loop is a sequence of instructions which is specfied once but which may be carried out several times in a row.
+-In exception handling, two sets of instructions are defined. The first set is executed, and if an exception occurs the 
+first set is stopped and the second set is executed.
+-Data structures are formats that we can use to keep track of our data in an organized fashion.
+-List acts as a container to store multiple pieces of information that  relae to each other in some way.
+-When we add things to the end of a list we say that we are appending them to the end.
+-A loop is a structure in programming where the instructions are written once, but a computer can execute them multiple times.
+-Each execution of those instruction is called an iteration.
+-For loops (count controlled loops) repeat for a specified number of times.
+-While loops (condition controlled loops) repeat until condiiton changes.
+-For each loops 9collection controlled loops) repeat for each items in a collection.
