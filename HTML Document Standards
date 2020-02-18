@@ -11,4 +11,10 @@
 - target = _blank open in new window
 - When making multipage static websites web developers often store HTML files in the root directory, or a main folder
   where all the files for the project are stored. If all files are stored in the same folder, we can link webpages together using 
-  
+  relative path.
+- A relative path is a filename that shows the path to a local file (a file on the same website such as ./index.html)
+- HTML allows you to turn every element into a link by wrapping the element with an anchor element.
+- In order to link a target on the same page, we must give the target an id. An id can be added to most elements of a webpage
+- <a id = "top"> </a> this is the top of the page
+- <a href = "#top"> Top <a>
+- Comments beginning with <!-- and end with --!> are ignored by browser.
