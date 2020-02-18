@@ -1,1 +1,14 @@
-
+- Document Type Declaration - lets web browsers know that you are using HTML. Must be first line of code in HTML <!DOCTYPE html>
+- Save file with .html extension
+- To create HTML structure, we must add opening adn ending <html> tags after <! DOCTYPE html>. Anything inside is code can be
+  interpreted as html code
+- <head> element goes above <body> element and contains metadata for a web page. Metadata is information about the page that
+  isnt displayed directly on the web page.
+- <title> - tag always inside head
+- <a> anchor element tag is used to link website
+- href attribute inside <a> tag to refer to website
+- target attribute specifies where sites should open
+- target = _blank open in new window
+- When making multipage static websites web developers often store HTML files in the root directory, or a main folder
+  where all the files for the project are stored. If all files are stored in the same folder, we can link webpages together using 
+  
