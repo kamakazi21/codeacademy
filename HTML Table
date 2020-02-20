@@ -1,2 +1,12 @@
 The <table> element will contain all of the tabular data you plan on displaying.
 The first step in entering data into the table is to add rows using the table row element: <tr>.
+Each cell element must also be defined. In HTML, you can add data using the table data element. 
+<td>-creates cells, must be inside <tr>.
+To add titles to rows and columns, you can use the table heading element: <th>.
+The table heading element is used just like a table data element, except with a relevant title.
+Just like table data, a table heading must be placed within a table row.
+Note, also, the use of the scope attribute, which can take one of two values.
+row - this value makes it clear that the heading is for a row.
+col - this value makes it clear that the heading is for a column.
+Format - <th scope="col">Saturday</th>
+We use CSS to add style to HTML
