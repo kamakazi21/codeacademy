@@ -10,3 +10,10 @@ row - this value makes it clear that the heading is for a row.
 col - this value makes it clear that the heading is for a column.
 Format - <th scope="col">Saturday</th>
 We use CSS to add style to HTML
+Data can span columns using the colspan attribute. 
+The attributes accepts an integer (greater than or equal to 1) to denote the number of columns it spans across.
+colspan attribute - <td colspan="2">
+The rowspan attribute is used for data that spans multiple rows. 
+It accepts an integer (greater than or equal to 1) to denote the number of rows it spans across.
+rowspan attribute - <td rowspan="2">
+Long tables can be sectioned off using the table body element: <tbody>. 
