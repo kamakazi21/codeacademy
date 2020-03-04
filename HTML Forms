@@ -16,3 +16,11 @@ We then assign the for attribute of the <label> element with the value of the id
 An <input type ="password"> element will replace input text with another character like an asterisk (*) or a dot (•). 
 By setting type="number" for an <input> we can restrict what users type into the input field to just numbers
 We can also provide a step attribute which creates arrows inside the input field to increase or decrease by the value of the step attribute
+To set the minimum and maximum values of the slider we assign values to the min and max attribute of the <input>.
+We could also control how smooth and fluid the slider works by assigning the step attribute a value
+In a <form> we would use the <input> element and set type="checkbox"
+To group radio buttons together, we assign them the same name and only one radio button from that group can be selected. 
+We’re using the element <select> to create the dropdown list. To populate the dropdown list, we add multiple <option> elements, each with a value attribute.
+<select id="bun" name="bun">
+     <option value="sesame">Sesame</option>
+The <datalist> is used with an <input type="text"> element. The <input> creates a text field that users can type into and filter options from the <datalist>.
