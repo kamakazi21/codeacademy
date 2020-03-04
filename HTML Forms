@@ -1,1 +1,11 @@
 We need to supply the <form> element with both the location of where the <form>‘s information goes and what HTTP request to make
+<form action="/example.html" method="POST">
+</form>
+the action attribute determines where the information is sent and 
+the method attribute is assigned a HTTP verb that is included in the HTTP request.
+The <input> element has a type attribute which determines how it renders on the web page and what kind of data it can accept.
+input has attributes type and name
+Type attribute which determines how it renders on the web page and what kind of data it can accept.
+<input type="text" name="first-text-field"> 
+After users type into the <input> element, the value of the value attribute becomes what is typed into the text field.
+The value of the value attribute is paired with the value of the name attribute and sent as text when the form is submitted
