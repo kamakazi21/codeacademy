@@ -24,3 +24,7 @@ We’re using the element <select> to create the dropdown list. To populate the 
 <select id="bun" name="bun">
      <option value="sesame">Sesame</option>
 The <datalist> is used with an <input type="text"> element. The <input> creates a text field that users can type into and filter options from the <datalist>.
+The <textarea> element is used to create a bigger text field for users to write more text. 
+We can add the attributes rows and cols to determine the amount of rows and columns for the <textarea>.
+If we want to add a default value to text to <textarea> we would include it within the opening and closing tags
+To make a submit button in a <form>, we’re going to use the reliable <input> element and set the type to "submit".
