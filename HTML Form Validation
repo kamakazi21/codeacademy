@@ -1,0 +1,3 @@
+Validation is the concept of checking user provided data against the required data
+Server-side validation, this happens when data is sent to another machine (typically a server) for validation
+We use client-side validation if we want to check the data on the browser (the client)
